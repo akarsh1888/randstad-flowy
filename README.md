@@ -6,4 +6,4 @@
 
 ## Step 3. npm i
 
-## Step 4. npm run dev
+## Step 4. npm start
