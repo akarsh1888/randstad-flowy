@@ -15,6 +15,8 @@ import ErrorIconBlue from "./assets/errorblue.svg";
 import Tabs from "./components/tabs/tabs";
 import SearchBox from "./components/search/search";
 import Block from "./components/block/block";
+// Utils
+import flowy from "./utils/flowy.min.js";
 
 const Index = () => {
   var spacing_x = 40;
